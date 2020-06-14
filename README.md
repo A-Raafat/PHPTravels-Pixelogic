@@ -30,5 +30,7 @@ You just add your desired test case in test.py function ( just copy one of the f
 Then it will create the screenshots for wrong data format and outputs the successful and failed test cases in text file.
 
 # Features and Limitations : 
-It passes all the requirements
+It handles all the requirements and cases.
+Easy to to create new test cases.
 Only one limitation when the user inputs correct phone number in dashes for ex. "15-056" it fails.
+No HTML interceptor, i tried searching how it is done but i think it will require me more time to implement it, as i only know the basics of HTML.
