@@ -1,0 +1,7 @@
+function test_email failed : The Email field must contain a valid email address.
+function test_first_name failed : Enter First Name which must start with capital letter.
+function test_last_name failed : Enter Last Name which must start with capital letter and can’t be equal First Name.
+function test_number failed : Enter a valid Mobile Number.
+function test_password failed : The Password must have capital letter, small letter, and a limit of 5-8 characters.
+function test_signup Success
+function test_valid failed : Email Already exist!'
